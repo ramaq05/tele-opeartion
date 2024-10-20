@@ -21,4 +21,4 @@ $ ls
 
 You will see a .pdf files for both the objectives. Please repeat the same for other directory as well. 
 
-Note: Simulation will take time please wait untill fininsh. 
+Note: Simulation will take time please wait untill finish. 
